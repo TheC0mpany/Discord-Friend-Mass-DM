@@ -3,5 +3,5 @@ Simple Discord friend mass DM on python.
 
 # How to install requirements? 
 ```
-pip install requirements.txt 
+pip install -r requirements.txt
 ```
